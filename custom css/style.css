@@ -1,0 +1,10 @@
+.list-item li {
+    list-style: none;
+    padding: 5px;
+
+}
+.button{
+    background-color: #F496D1;
+    color: black;
+    border: none;
+}
