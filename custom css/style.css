@@ -11,3 +11,6 @@
 .text-color{
     color: #ffff;
 }
+.imgs, .text-color{
+    margin-top: 50px;
+}
