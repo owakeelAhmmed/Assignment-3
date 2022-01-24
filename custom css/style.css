@@ -14,3 +14,7 @@
 .imgs, .text-color{
     margin-top: 50px;
 }
+.card-color{
+    background-color: #3F87F5;
+    color: #ffff;
+}
