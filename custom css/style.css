@@ -17,15 +17,8 @@
 .card-color{
     background-color: #3F87F5;
     color: #ffff;
+    border-radius: 5px;
 }
 .card-body{
     position: relative;
-}
-.hot{
-    background-color: red;
-    position: absolute;
-    padding: 5px;
-    border-radius: 5px;
-    left: 165px;
-    top: -16px;
 }
